@@ -109,6 +109,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv_azdiff
 env/
 venv/
 ENV/
@@ -142,3 +143,4 @@ cython_debug/
 /**/report.html
 
 replication_log.md
+data.csv
